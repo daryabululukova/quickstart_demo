@@ -11,7 +11,7 @@
   "parameters": {
     "storageAccountType": {
       "type": "string",
-      "defaultValue": "Standard_LRS",
+      "defaultValue": "Standard_ZRS",
       "allowedValues": [
         "Premium_LRS",
         "Premium_ZRS",
