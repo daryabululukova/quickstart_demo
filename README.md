@@ -9,11 +9,11 @@ languages:
 - bicep
 - json
 ---
-# Create a Standard Storage Account
+# Create a Best Practices Storage Account
 
 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdaryabululukova%2Fquickstart_demo%2Fmaster%2Fmain.bicep)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdaryabululukova%2Fquickstart_demo%2Fmaster%2Fazuredeploy.json)
 
 This template creates a standard storage account.
 
