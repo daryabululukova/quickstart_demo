@@ -12,7 +12,7 @@ languages:
 # Create a Standard Storage Account
 
 
-![Deploy To Azure](https://raw.githubusercontent.com/daryabululukova/quickstart_demo/master/main.bicep)
+[![Deploy To Azure](https://raw.githubusercontent.com/daryabululukova/quickstart_demo/master/main.bicep)]
 
 
 
