@@ -12,9 +12,8 @@ languages:
 # Create a Standard Storage Account
 
 
-![Deploy To Azure](https://raw.githubusercontent.com/daryabululukova/quickstart_demo/master/main.bicep)
 
-<img src="https://aka.ms/deploytoazurebutton"/>
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdaryabululukova%2Fquickstart_demo%2Fmaster%2Fazuredeploy.json)
 
 This template creates a standard storage account.
 
