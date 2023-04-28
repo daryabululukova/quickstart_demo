@@ -14,7 +14,7 @@ languages:
 
 This template allows you to deploy a simple Windows [Generation 2 VM](https://docs.microsoft.com/azure/virtual-machines/generation-2) using a few different options for the Windows version, using the latest patched version. This will deploy a D2s_v3 size VM in the resource group location and return the fully qualified domain name of the VM.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Fdaryabululukova%2Fquickstart_demo%2Fblob%2Fmaster%2FVM%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdaryabululukova%2Fquickstart_demo%2Fmaster%2FVM%2Fazuredeploy.json
 
 If you're new to Azure virtual machines, see:
 
